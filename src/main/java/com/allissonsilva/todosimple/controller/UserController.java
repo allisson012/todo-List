@@ -1,7 +1,6 @@
 package com.allissonsilva.todosimple.controller;
 
 import java.net.URI;
-import java.net.URL;
 
 import javax.validation.Valid;
 
